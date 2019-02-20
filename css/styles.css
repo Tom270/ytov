@@ -1,54 +1,31 @@
-html{
+body{
+	color: white;
 	background-color: black;
 }
 
-header div.image{
-	background-image: url(https://p3.storage.canalblog.com/30/56/817021/62688009.jpg);
-	margin-right: -0.5%;
-	margin-left:-0.5%;
-	margin-top:-1.8%;
+h1.header{
+	color: white;
+	font-size: 190%;
 }
 
-nav.menu-nav ul li.btn{
-	display: inline-block;
-	padding-bottom:2.5%;
-	padding-top:2.5%;
+img.header{
+	width: 110.6%;
+	height: 100%;
+	margin-left: -0.5%;
+	margin-top: -0.5%;
 }
 
-nav.menu-nav ul li.btn a{
-	text-decoration: none;
+div.header{
+	margin-top: -10%;
+	padding-bottom: 10%;
 }
 
-li.btn{
-	padding-left:13%;
-	padding-right:13%;
+div.Box1{
+	padding-left: 43%; 
+	margin-top: -40%;
+	padding-bottom: 25%;
 }
 
-nav.menu-nav ul li.btn a{
-	color:red;
-	font-size:135%;
-}
-
-nav.menu-nav ul li.btn:hover a{ 
-	color:black;
-	transition: 0.8s all;
-}
-
-div#content div.leftbox{
-	color:red;
-	vertical-align:top;
-}
-
-div#content div.rightbox{
-	color: red;
-}
-
-div#content div{
-	display: inline-block;
-	width:48%;
-}
-
-footer{
-	color:red;
-	padding-top:50%;
+div.box1img1{
+	padding-left: 13%;
 }
